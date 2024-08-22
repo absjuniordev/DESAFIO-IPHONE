@@ -1,0 +1,9 @@
+package application.smartphone;
+
+import application.call.Calling;
+import application.internet.Zafira;
+import application.mida.Itunes;
+
+public class Iphone implements Calling, Zafira, Itunes {
+
+}

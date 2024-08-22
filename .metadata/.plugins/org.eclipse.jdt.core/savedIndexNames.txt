@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\wkt\Backend\Projetos - Dio\desafio-iphone\.metadata\.plugins\org.eclipse.jdt.core
+3566166767.index
+3088208785.index
+1865797976.index
